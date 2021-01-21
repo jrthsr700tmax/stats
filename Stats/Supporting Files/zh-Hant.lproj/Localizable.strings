@@ -48,10 +48,10 @@
 // Application settings
 "Update application" = "更新應用程式";
 "Check for updates" = "檢查更新";
-"At start" = "At start";
-"Once per day" = "Once per day";
-"Once per week" = "Once per week";
-"Once per month" = "Once per month";
+"At start" = "打開時";
+"Once per day" = "每天 1 次";
+"Once per week" = "每週 1 次";
+"Once per month" = "每月 1 次";
 "Never" = "Never";
 "Check for update" = "檢查更新";
 "Show icon in dock" = "在 Dock 顯示圖示";
