@@ -88,14 +88,14 @@
 "Read" = "讀取";
 "Write" = "寫入";
 "Frequency" = "頻率";
-"1 sec" = "1 sec";
-"2 sec" = "2 sec";
-"3 sec" = "3 sec";
-"5 sec" = "5 sec";
-"10 sec" = "10 sec";
-"15 sec" = "15 sec";
-"30 sec" = "30 sec";
-"60 sec" = "60 sec";
+"1 sec" = "1 秒";
+"2 sec" = "2 秒";
+"3 sec" = "3 秒";
+"5 sec" = "5 秒";
+"10 sec" = "10 秒";
+"15 sec" = "15 秒";
+"30 sec" = "30 秒";
+"60 sec" = "60 秒";
 
 // Setup
 "Stats Setup" = "Stats 設定";
@@ -126,8 +126,8 @@
 "Click to install the new version of Stats" = "安裝 Stats 的新版本";
 "Successfully updated" = "更新成功";
 "Stats was updated to v" = "Stats 已更新到 v%0";
-"Reset settings text" = "應用程式的所有設定將會重置，並會重新打開此應用程式。您確定要這樣做嗎？";
-"Support text" = "感謝您使用 Stats！維護和改進這個開放源專案需要時間和資源。如果您覺得 Stats 有幫助，請考慮捐款。一分一毫都有幫助！";
+"Reset settings text" = "應用程式的所有設定將會重置，並重新打開此應用程式。您確定要這樣做嗎？";
+"Support text" = "感謝您使用 Stats！維護並改進這個開放源專案需要時間和資源。如果覺得 Stats 對您有幫助，歡迎贊助我們。您所贊助的一分一毫都能帶給我們莫大的幫助！";
 
 // Settings
 "Open Activity Monitor" = "打開活動監視器";
@@ -204,8 +204,8 @@
 "Static width" = "靜態寬度";
 "Tachometer widget" = "轉速計";
 "State widget" = "State 小工具";
-"Text widget" = "Text widget";
-"Battery details widget" = "Battery details widget";
+"Text widget" = "文字";
+"Battery details widget" = "電池詳細資訊";
 "Show symbols" = "顯示符號";
 "Label widget" = "標籤";
 "Number of reads in the chart" = "圖表顯示的未讀計數";
@@ -236,8 +236,8 @@
 "No options to configure for the popup in this module" = "沒有可用於此模組的彈出式視窗組態設定選項";
 "Process" = "程序";
 "Kill process" = "結束程序";
-"Keyboard shortcut" = "Keyboard shortcut";
-"Listening..." = "Listening...";
+"Keyboard shortcut" = "鍵盤快速鍵";
+"Listening..." = "監聽中...";
 
 // Modules
 "Number of top processes" = "高能耗程序數量";
@@ -246,7 +246,7 @@
 "Chart color" = "圖表色彩";
 "Main chart scaling" = "主圖表縮放";
 "Scale value" = "縮放值";
-"Text widget value" = "Text widget value";
+"Text widget value" = "文字小工具值";
 
 // CPU
 "CPU usage" = "處理器使用量";
@@ -339,8 +339,8 @@
 "Total written" = "總寫入";
 "Write speed" = "寫入";
 "Read speed" = "讀取";
-"Drives" = "Drives";
-"SMART data" = "SMART data";
+"Drives" = "磁碟機";
+"SMART data" = "SMART 資料";
 
 // Sensors
 "Temperature unit" = "溫度單位";
@@ -362,7 +362,7 @@
 "Left fan" = "左側風扇";
 "Right fan" = "右側風扇";
 "Fastest fan" = "最快速度";
-"Sensor to show" = "Sensor to show";
+"Sensor to show" = "要顯示的感知器";
 
 // Network
 "Uploading" = "上傳";
@@ -406,8 +406,8 @@
 "Latency" = "延遲";
 "Upload speed" = "上傳";
 "Download speed" = "下載";
-"Address" = "Address";
-"WiFi network" = "WiFi network";
+"Address" = "位址";
+"WiFi network" = "Wi-Fi 網路";
 
 // Battery
 "Level" = "電量";
@@ -447,7 +447,7 @@
 "Colorize battery" = "啟用彩色電池圖示";
 "Charging current" = "充電電流";
 "Charging Voltage" = "充電電壓";
-"Charger state inside the battery" = "Charger state inside the battery";
+"Charger state inside the battery" = "在電池圖示內顯示充電狀態";
 
 // Bluetooth
 "Battery to show" = "顯示藍牙裝置的電池電量";
@@ -458,9 +458,9 @@
 "Local" = "目前位置";
 "Calendar" = "日曆";
 "Local time" = "當地時間";
-"Add new clock" = "Add new clock";
-"Delete selected clock" = "Delete selected clock";
-"Help with datetime format" = "Help with datetime format";
+"Add new clock" = "加入新時鐘";
+"Delete selected clock" = "刪除所選時鐘";
+"Help with datetime format" = "日期時間格式說明";
 
 // Colors
 "Based on utilization" = "根據使用率";
